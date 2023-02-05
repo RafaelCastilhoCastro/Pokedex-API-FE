@@ -1,9 +1,14 @@
-# Lammar-pokedex3
+# Pokedex FE
 
-Grupo:
-* Bruna de Carvalho dos Santos
-* Mauricio da Rosa Guimarães
-* Rafael Castilho de Castro
+## Projeto Frontend de uma Pokedex desenvolvido em React.Js. :iphone:
 
 
-Surge https://acidic-property.surge.sh/
+:card_file_box: Dependências:
+- Axios
+- React
+- React-router-dom
+- React-toastify
+- Styled-components
+
+---
+:satellite: [Link Deploy Surge](project-pokedex.surge.sh)
