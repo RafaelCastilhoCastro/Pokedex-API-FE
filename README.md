@@ -1,9 +1,14 @@
-# Pokedex FE
+# Pokedex API Frontend
 
-## Projeto Frontend de uma Pokedex desenvolvido em React.Js. :iphone:
+## Projeto Frontend de uma Pokedex desenvolvido em React.Js que se alimenta de uma API. :iphone:
 
+### Como usar
+- Clone o repositório
+- Rode `npm i` (ou equivalente) para instalar as dependências        
+- Rode `npm run build`
+- Rode `npm run start`
 
-:card_file_box: Dependências:
+### Dependências
 - Axios
 - React
 - React-router-dom
